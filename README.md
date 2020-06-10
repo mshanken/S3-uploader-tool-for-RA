@@ -7,7 +7,7 @@ All you need is node 10 or 12 to run npm or yarn, and the access keys to S3.
 ## How to use
 Just clone or download this repo into your local computer. cd into the folder once that's done ``` cd S3-uploader-tool-for-RA ```. Now install its dependencies by running ``` npm install ```.
 
-Once this repo dependencies are installed create a json file and name it as aws-keys.json and add S3 credentials in it (see sample below.)
+Once this repo dependencies are installed create a json file and name it as ```html aws-keys.json``` and add S3 credentials in it (see sample below.)
 
 ```
 {
