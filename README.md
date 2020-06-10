@@ -13,7 +13,7 @@ Once this repo dependencies are installed create a json file and name it as aws-
 {
     "AWSAccessKeyId": "AKxxxxxxxxxx",
     "AWSSecretKey": "super-secret-key",
-    "AWSBucket": "The-bucket-name(assets...)",
+    "AWSBucket": "The-bucket-name",
     "AWSRegion":"AWS-Region"
   }
 ```
