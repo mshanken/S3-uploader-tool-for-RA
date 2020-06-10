@@ -6,7 +6,13 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": [
+    {
+      "name": "M. Shanken Communications Inc.",
+      "email": "dev@mshanken.com",
+      "url": "https://www.mshanken.com"
+    }
+  ],
   "license": "ISC",
   "devDependencies": {
     "grunt": "^1.1.0",
