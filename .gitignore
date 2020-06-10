@@ -1,0 +1,77 @@
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Mac
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Maven
+log/
+target/
+
+# Node
+node_modules/
+bower_components/
+public/src/javascripts/.node-version
+
+# Vagrant Puppet Chef yarn
+.vagrant
+.kitchen
+Berksfile.lock
+yarn.lock
+
+# Project ignored files by git
+cache/
+log/
+content-cache/
+content_cache.lock
+Gemfile.lock
+.buildpath
+lib/SysConfig.config.php
+public/webgrind/
+public/phpinfo.php
+
+.sass-cache
+vendor/
+!public/src/css/vendor
+!public/src/css/vendor/bootstrap/scss/vendor
+.env
+__*
+web
+*.sublime-*
+/tags
+.*.swp
+.swp
+.buildpath
+.project
+*.log
+
+/bolt.log
+coverage.xml
+pimple.json
+app/CigarUser/cache/*
+composer.phar
+security-checker.phar
+files/*
+public/theme/*
+
+.editorconfig
+.*rc
+!.modernizrrc
+BC-JW-ID_Cigar.csv
+.vscode/settings.json
+
+aws-keys.json
+images/
