@@ -1,21 +1,20 @@
 {
   "name": "S3-uploader-tool-for-RA",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "s3": "grunt aws_s3"
   },
-  "author": [
-    {
-      "name": "M. Shanken Communications Inc.",
-      "email": "dev@mshanken.com",
-      "url": "https://www.mshanken.com"
-    }
-  ],
+  "author": {
+    "name": "M. Shanken Communications Inc.",
+    "email": "dev@mshanken.com",
+    "url": "https://www.mshanken.com"
+  },
   "license": "ISC",
   "devDependencies": {
-    "grunt": "^1.3.0",
+    "grunt": "^1.6.1",
     "grunt-aws-s3": "^2.0.2",
     "package.json": "^0.0.0"
   }
