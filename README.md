@@ -18,6 +18,6 @@ Once this repo dependencies are installed create a json file and name it as ```a
   }
 ```
 
-Once you have the file in place in the root of your folder, create a folder and named images ``` images/ ``` and dump all images that you want to upload in it. And finally just run grunt ``` npm run s3```. That should take few seconds or minutes depending how many files are in the images folder.
+Once you have the file in place in the root of your folder, create a folder and named images ``` images/ ``` and dump all images that you want to upload in it. And finally just run ``` npm run s3```. That should take few seconds or minutes depending how many files are in the images folder.
 
 So there you go, all files should be in the Restaurant forlder at S3, check S3 in you browser to confirm.
